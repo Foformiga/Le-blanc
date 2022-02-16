@@ -1,0 +1,4 @@
+name: Leblanc
+version: '${version}'
+main: formiga.leblanc.Main
+api-version: 1.16
